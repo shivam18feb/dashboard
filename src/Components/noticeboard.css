@@ -1,0 +1,25 @@
+.notice-title {
+    text-align: center;
+    color: #333; /* Adjust color as needed */
+   
+  }
+  
+  .custom-accordion {
+    width: 700px;
+    margin-left: 20px;
+  }
+  
+  .accordion-header {
+    background-color: #f8f9fa; /* Adjust background color */
+    color: #007bff; /* Adjust text color */
+    border-color: #dee2e6; /* Adjust border color */
+  }
+  
+  .accordion-body {
+    background-color: #fff; /* Adjust background color */
+    color: #555; /* Adjust text color */
+    border-color: #dee2e6; /* Adjust border color */
+  }
+  
+  /* Add more styles as needed */
+  
